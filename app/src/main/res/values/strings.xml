@@ -1,0 +1,13 @@
+<resources>
+    <string name="btn_previous">Previous</string>
+    <string name="btn_next">Next</string>
+    <string name="author1">Da Vinci</string>
+    <string name="art1">Mona Lisa</string>
+    <string name="year1">(1503-19)</string>
+    <string name="author2">Edvard Munch</string>
+    <string name="art2">The Scream</string>
+    <string name="year2">(1893)</string>
+    <string name="author3">Johannes Vermeer</string>
+    <string name="art3">Girl with a Pearl Earring</string>
+    <string name="year3">(1665)</string>
+</resources>
